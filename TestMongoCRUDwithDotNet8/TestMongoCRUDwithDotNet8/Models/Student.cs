@@ -24,5 +24,6 @@ namespace TestMongoCRUDwithDotNet8.Models
 
         [BsonElement("Address")]
         public Address Address { get; set; }
+
     }
 }
