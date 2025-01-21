@@ -1,0 +1,6 @@
+@TestMongoCRUDwithDotNet8_HostAddress = http://localhost:5249
+
+GET {{TestMongoCRUDwithDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
